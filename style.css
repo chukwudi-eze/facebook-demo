@@ -1,0 +1,119 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	background-color: #e6e6ff;
+	font-family: arial;
+}
+#rightform {
+	float: right;
+	margin-top: -4.5%;
+	margin-right: 12%;
+}
+#topform input[type=Email] {
+	width: 35%;
+}
+#topform input[type=Password] {
+	width: 35%;
+}
+#topform input[type=submit] {
+	padding: 1%;
+	font-size: small;
+	color: white;
+	background-color: navy;
+	border: none;
+	border: 0.5px solid black;
+	cursor: pointer;
+}
+#logo {
+	font-size: xx-large;
+	font-weight: bold;
+	padding: 1% 12%;
+}
+header {
+	background-color: #000099;
+	color: white;
+	padding-bottom: 0.5%;
+}
+#topform {
+	word-spacing: 15px;
+}
+#account {
+	margin-left: 69.7%;
+	margin-top: -1.7em;
+}
+#for {
+	text-decoration: none;
+	color: #8080ff;
+	font-size: small;
+}
+article {
+	float: left;
+	margin-left: 12%;
+	padding-top: 3%;	
+}
+#importance {
+	color: #000066;
+	font-size: 20px;
+	line-height: 1.5;
+}
+aside {
+	float: right;
+	margin-right: 19%;
+	margin-top: -20%;
+	clear: left;
+}
+#newacc {
+	font-size: xx-large;
+}  
+#qmark {
+	text-decoration: none;
+	background-color: #666666;
+	border-radius: 50%;
+	padding: 0.3% 1.5%;
+	font-size: 12px;
+	color: white;
+}
+#footnote {
+	font-size: 11px;
+	line-height: 1.5;
+	color: #666666;
+}
+#formaccount input[type=text] {
+	padding-top: 3%;
+	padding-bottom: 3%;
+	border-radius: 5px;
+}
+#formaccount input[type=email], #formaccount input[type=password] {
+	padding-top: 3%;
+	padding-bottom: 3%;
+	border-radius: 5px;
+	width: 100%;
+}
+select {
+	padding-top: 2%;
+	padding-bottom: 2%;
+	width: 15%;
+}
+#formaccount input[type=radio] {
+	background-color: white;
+}
+#formaccount input[type=submit] {
+	padding-top: 3%;
+	padding-bottom: 3%;
+	width: 50%;
+	border-radius: 5px;
+	font-size: large;
+	color: white;
+	background-color: #008000;
+	opacity: 0.8;
+}
+#formaccount input[type=submit]:hover {
+	background-color: white;
+	color: #008000;
+}
+a {
+	text-decoration: none;
+	color: blue;
+}
